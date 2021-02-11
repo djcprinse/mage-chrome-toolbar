@@ -1,0 +1,16 @@
+{
+    "addons": {
+        "{18f80429-55ef-48e8-a1c3-cd4e55177b77}": {
+            "updates": [
+                {
+                    "version": "3.4.0",
+                    "update_link": "https://raw.githubusercontent.com/djcprinse/mage-chrome-toolbar/master/artifacts/magespecialist_devtools_for_magento-3.4.0-an+fx.xpi"
+                },
+                {
+                    "version": "3.4.1",
+                    "update_link": "https://raw.githubusercontent.com/djcprinse/mage-chrome-toolbar/master/artifacts/magespecialist_devtools_for_magento-3.4.1-an+fx.xpi"
+                }
+            ]
+        }
+    }
+}

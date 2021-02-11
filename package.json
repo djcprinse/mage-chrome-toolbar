@@ -1,6 +1,6 @@
 {
     "name": "mage-chrome-toolbar",
-    "version": "3.4.0",
+    "version": "3.4.1",
     "description": "",
     "devDependencies": {
         "web-ext": "^5.5.0"
